@@ -1,7 +1,7 @@
 name: workshop_flutter_performance
 description: "Build method performance workshop"
 publish_to: "none"
-repository: ""
+repository: "https://github.com/leventkantaroglu/workshop_flutter_performance"
 version: 0.1.0
 
 environment:
